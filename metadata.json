@@ -1,0 +1,6 @@
+{
+  "name": "OCR Barcode & Surat Jalan Scanner",
+  "description": "Sistem OCR berakurasi tinggi untuk mendeteksi barcode 1D dan membaca kode/teks surat jalan atau resi logistik, serta menyajikannya dalam format lembar kerja Excel interaktif.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
